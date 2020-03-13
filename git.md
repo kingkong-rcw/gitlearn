@@ -11,3 +11,6 @@ https://blog.csdn.net/hui987654/article/details/89285781
 https://www.cnblogs.com/itlover2013/p/11225423.html
 )   
 ### reset,revert,rebase
+[Git恢复之前版本的两种方法reset、revert（图文详解）](
+https://blog.csdn.net/yxlshk/article/details/79944535
+)   
