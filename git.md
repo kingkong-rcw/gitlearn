@@ -29,3 +29,6 @@ https://www.jianshu.com/p/a5e79d565a55
 [gitbook rebase](
 http://gitbook.liuhui998.com/4_2.html
 )
+[git rebase 还是 merge的使用场景最通俗的解释](
+https://www.jianshu.com/p/4079284dd970
+)
