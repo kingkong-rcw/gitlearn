@@ -1,3 +1,2 @@
 something useful
-something useless
 more useful
