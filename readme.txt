@@ -7,3 +7,4 @@ what a poor guy!
 new branch dev
 test shelve ..................
 skipping shelve test!
+skipping stash test !
