@@ -4,3 +4,10 @@ https://www.jianshu.com/p/b9f0391d1d37
 [git log](
 https://www.jianshu.com/p/0805b5d5d893
 )   
+[git reflog 时光穿梭机](
+https://blog.csdn.net/hui987654/article/details/89285781
+)   
+[git使用命令, 特别:git checkout -b a 与 git branch a区别](
+https://www.cnblogs.com/itlover2013/p/11225423.html
+)   
+### reset and revert
