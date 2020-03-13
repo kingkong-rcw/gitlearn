@@ -23,3 +23,6 @@ https://www.jianshu.com/p/f7ed3dd0d2d8
 [你真的懂git rebase吗？](
 https://www.jianshu.com/p/6960811ac89c
 )   
+[如何使用Git Rebase ***](
+https://www.jianshu.com/p/a5e79d565a55
+)
