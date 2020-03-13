@@ -26,3 +26,6 @@ https://www.jianshu.com/p/6960811ac89c
 [如何使用Git Rebase ***](
 https://www.jianshu.com/p/a5e79d565a55
 )
+[gitbook rebase](
+http://gitbook.liuhui998.com/4_2.html
+)
