@@ -103,5 +103,8 @@ window.functionB=function(){
 window.functionC=function(){
 	console.log("fc")
 }
+window.finish=function(){
+    console.log("finish");
+}
 
 
