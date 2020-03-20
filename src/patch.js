@@ -94,6 +94,14 @@ if(!String.prototype.trim){
         return this.replace(/(\s*$)/g, "");
     }
 }
-
+window.functionA=function(){
+	console.log("fa");
+}
+window.functionB=function(){
+	console.log('fb');
+}
+window.functionC=function(){
+	console.log("fc")
+}
 
 
