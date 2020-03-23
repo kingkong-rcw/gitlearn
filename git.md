@@ -35,3 +35,9 @@ https://www.jianshu.com/p/4079284dd970
 [巧用 git rebase 合并多个 commit。](
 https://www.cnblogs.com/yxhblogs/p/10527271.html
 )   
+上文提到的方案，git rebase -i (startPoint,endPoint] 会产生临时分支，实操未成功
+
+[git 几个commit点合并成一个commit点](
+https://blog.csdn.net/u013276277/article/details/82470177
+)   
+这个方案,git rebase -i (startPoint 则不涉及临时分支，实操通过
